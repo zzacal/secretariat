@@ -1,2 +1,3 @@
-# easy-secrets
+# secretariat
+
 Simplifies your secrets-getting ways.
