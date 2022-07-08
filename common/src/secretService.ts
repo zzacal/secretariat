@@ -1,3 +1,3 @@
 export interface ISecretService {
-  get: (key: string) => Promise<string>;
+  get: (key: string) => Promise<string | null | undefined>;
 }
